@@ -6,7 +6,7 @@ README Generator is used to generate README.md files for projects. Using the Nod
 
 ## Installation
 
-Open README Generator folder in terminal and install using `npm install`, `npm start` to prompt questions which answers will then be used to generate a README file in your projects directory.
+Open README Generator folder in terminal and install using `npm install`, `node index.js` to prompt questions which answers will then be used to generate a README file in your projects directory.
 
 ## Usage
 
