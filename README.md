@@ -32,7 +32,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 answer prompts in terminal
 
-<img width="405" alt="Screen Shot 2020-12-01 at 11 46 41 AM" src="https://user-images.githubusercontent.com/66789135/100783350-e565da80-33ca-11eb-8516-31cd5670b98e.png">
+<img width="940" alt="Screen Shot 2020-12-01 at 11 44 21 AM" src="https://user-images.githubusercontent.com/66789135/100783530-2231d180-33cb-11eb-9e50-1bf2f7797cd3.png">
 
 generated markdown file
 
